@@ -1,0 +1,6 @@
+objectid,team_name,league,sport,file_name
+team01,"""Los Angeles Lakers""",nba,basketball,lakers_logo.png
+team02,"""Manchester United""",premier_league,soccer,manutd_logo.png
+team03,"""New York Yankees""",mlb,baseball,yankees_logo.png
+team04,"""New Zealand All Blacks""",nfl,football,allblacks_logo.png 
+team05,"""New England Patriots """,rugby_league,rugby,patriots_logo.png
